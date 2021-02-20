@@ -1,5 +1,5 @@
 /** 
- * The following JavaScript Code to delete/accept all friend requests in one second.
+ * The following JavaScript code to delete/accept all friend requests in one second.
  * حذف او قبول | Accept or Delete
  */
 document.querySelectorAll('[aria-label^="حذف"]');
